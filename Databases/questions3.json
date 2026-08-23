@@ -1,0 +1,205 @@
+[
+  {
+    "name": "Bacterial Leaf Blight",
+    "type": "disease",
+    "set_a": [
+      "Do you see any one of these sets of signs on the rice leaves?\nSet 1:\n1) Long continuous marks that are yellow to light brown, or whitish.\n2) These marks are along the edge or middle of the leaf.\nSet 2:\n1) Water-soaked marks.\n2) These marks are light green or grayish green."
+    ]
+  },
+  {
+    "name": "Bakanae",
+    "type": "disease",
+    "set_a": [
+      "Do you see the following problems?\n1) Some rice plants are much taller and thinner than the other rice plants.\n2) The leaves are pale green or yellow-green."
+    ]
+  },
+  {
+    "name": "Leaf Blast",
+    "type": "disease",
+    "set_a": [
+      "Do you see these signs on the rice leaves?\n1) Spindle-shaped or irregular spots on the leaves.\n2) The spots have a whitish gray, or straw-colored center with brown edges.\nYou may also see:\n3) The spots are usually small or medium-sized."
+    ]
+  },
+  {
+    "name": "Node Blast",
+    "type": "disease",
+    "set_a": [
+      "Do you see these signs on the stem nodes?\n1) Black or dark brown patches.\n2) The nodes look shriveled, sunken, or discolored."
+    ]
+  },
+  {
+    "name": "Neck Blast",
+    "type": "disease",
+    "set_a": [
+      "Do you see two or more of these signs on the panicles?\n1) Dark brown or grayish brown marks appear at the base of the panicle or its branches\n(Sometimes the panicle breaks and droops, but it remains attached to the plant).\n2) They look whitish brown or straw-colored.\n3) They have few or no filled grains."
+    ]
+  },
+  {
+    "name": "Brown Spot",
+    "type": "disease",
+    "set_a": [
+      "Do you these signs on the rice leaves?\n1) Small, oval-shaped brown or dark brown spots.\n2) The spots have yellow rings around them.\nYou may also see:\n3) Many spots join together, making the leaf look dry or scorched."
+    ]
+  },
+  {
+    "name": "False Smut",
+    "type": "disease",
+    "set_a": [
+      "Do you see these signs on the rice grains?\n1) Some grains have turned into ball like growths.\n2) Each growth may be any of these colors: green, yellow, orange, black, or white.\n3) Each growth has a powdery coating."
+    ]
+  },
+  {
+    "name": "Leaf Scald",
+    "type": "disease",
+    "set_a": [
+      "Do you see any one of these sets of signs on the rice leaves?\nSet 1:\n1) Light tan or dark brown spots.\n2) The spots have ring-like patterns.\nSet 2:\n1) Gray-green, water-soaked spots.\n2) The spots are near the leaf tip or edge.\nSet 3:\n1) Large burned-looking patches.\n2) The patches have a sharp dark brown or reddish-brown edge."
+    ]
+  },
+  {
+    "name": "Panicle Blight",
+    "type": "disease",
+    "set_a": [
+      "Do you see several of these signs on the rice panicles?\n1) Some grains are brown or gray and look shriveled.\n2) Dark or water-soaked spots appear on the panicle.\n3) The panicles dry, wilt, or droop before the grains are fully formed."
+    ]
+  },
+  {
+    "name": "Seedling Blight",
+    "type": "disease",
+    "set_a": [
+      "Do you see several of these signs on the rice seedlings?\n1) The base of the seedlings is turning yellow or brown.\n2) The seedlings look weak, bent, or fallen over."
+    ]
+  },
+  {
+    "name": "Sheath Blight",
+    "type": "disease",
+    "set_a": [
+      "Do you see any one of these sets of signs on the leaf sheaths or lower leaves near the waterline?\nSet 1:\n1) Patchy spots on the leaf sheath or leaf.\n2) The center of the spots is gray or straw-colored.\n3) The edges of the spots may be dark brown, reddish-brown, or purple-brown.\nSet 2:\n1) Small, oval, water-soaked spots.\n2) The spots are light greenish gray or bluish."
+    ]
+  },
+  {
+    "name": "Sheath Rot",
+    "type": "disease",
+    "set_a": [
+      "Do you see several of these signs on the upper leaf sheaths around the panicle?\n1) Brown or dark spots on the upper leaf sheaths.\n2) The panicle is only partly visible from the sheath.\n3) The sheath is brown, dried, or rotted."
+    ]
+  },
+  {
+    "name": "Stem Rot",
+    "type": "disease",
+    "set_a": [
+      "Do you see several of these signs near the base of the stem?\n1) Black or dark spots near the soil or water level.\n2) The stem looks discolored, soft, or decayed."
+    ]
+  },
+  {
+    "name": "Tungro",
+    "type": "disease",
+    "set_a": [
+      "Do you see the following sign on the rice leaves?\n1) The leaves are yellow or orange-yellow\n(sometimes with rust-colored spots).\nYou may also see:\n2) The affected plants are found in patches in the field, not across the whole field."
+    ]
+  },
+  {
+    "name": "Ufra",
+    "type": "disease",
+    "set_a": [
+      "Do you see this sign on the rice seedlings?\n1) Tiny white spots where the leaf joins the leaf sheath."
+    ]
+  },
+  {
+    "name": "Brown Planthopper",
+    "type": "pest",
+    "set_a": [
+      "Do you see several of these signs?\n1) The lower leaves are turning yellow or brown.\n2) Black, soot-like deposits appear on the lower leaves.\n3) Small brown insects are at the base of the plant."
+    ]
+  },
+  {
+    "name": "Case Worm",
+    "type": "pest",
+    "set_a": [
+      "Do you see this sign on the rice leaves?\n1) The leaves are rolled into tube-like shapes.\n2) Brown or whitish feeding marks appear on the leaves."
+    ]
+  },
+  {
+    "name": "Rice Gall Midge",
+    "type": "pest",
+    "set_a": [
+      "Do you see this sign?\n1) An onion-like swelling at the base of the tillers.\n2) The center leaf is twisted and silver-white."
+    ]
+  },
+  {
+    "name": "Grasshopper",
+    "type": "pest",
+    "set_a": [
+      "Do you see this sign on the rice leaves?\n1) Large chewed holes in the leaves."
+    ]
+  },
+  {
+    "name": "Green Leafhopper",
+    "type": "pest",
+    "set_a": [
+      "Do you see several of these signs?\n1) The leaves are turning yellow.\n2) White patches on the tillers.\n3) Small green, wedge-shaped insects on the leaves."
+    ]
+  },
+  {
+    "name": "Rice Leaf Roller or Folder",
+    "type": "pest",
+    "set_a": [
+      "Do you see this sign on the rice leaves?\n1) The leaves are rolled or folded.\n2) Whitish or transparent scraped patches appear on the leaves."
+    ]
+  },
+  {
+    "name": "Long Horned Cricket",
+    "type": "pest",
+    "set_a": [
+      "Do you see this sign on the rice leaves?\n1) The edges or veins of the leaves are eaten.\n2) The leaves look ragged or uneven."
+    ]
+  },
+  {
+    "name": "Mealybug",
+    "type": "pest",
+    "set_a": [
+      "Do you see this sign on the stems, leaf sheaths, or leaves?\n1) Narrow, gray insects.\n2) The insects are covered with a white, waxy coating."
+    ]
+  },
+  {
+    "name": "Rice Bug or Rice Ear Bug",
+    "type": "pest",
+    "set_a": [
+      "Do you see this sign on the rice grains?\n1) Brown or dark spots on the grains."
+    ]
+  },
+  {
+    "name": "Rice Hispa",
+    "type": "pest",
+    "set_a": [
+      "Do you see several of these signs on the rice leaves?\n1) Many white lines or streaks run side by side along the middle of the leaf.\n2) White or transparent feeding marks appear on the leaves.\nYou may also see:\n3) Small, dark blue or black insects with many small spines on their bodies."
+    ]
+  },
+  {
+    "name": "Thrips",
+    "type": "pest",
+    "set_a": [
+      "Do you see this sign on the rice leaves?\n1) Yellowish-white or silvery streaks on the leaves.\n2) The leaf tips sometimes may curled, rolled, or dried."
+    ]
+  },
+  {
+    "name": "White-Backed Planthopper",
+    "type": "pest",
+    "set_a": [
+      "Do you see several of these signs?\n1) The lower leaves are turning yellow or drying.\n2) Small white-backed insects are at the base of the plant."
+    ]
+  },
+  {
+    "name": "Stem Borer",
+    "type": "pest",
+    "set_a": [
+      "Do you see any one of these sets of signs on the rice plants?\nSet 1:\n1) The panicles are detached from the plant.\n2) The panicles are whitish brown or straw-colored.\n3) The panicles look empty and dry.\nSet 2:\n1) The central shoot is brown, dried, and dead."
+    ]
+  },
+  {
+    "name": "Healthy",
+    "type": "healthy",
+    "set_a": [
+      "Do all visible parts of the rice plant look healthy?\n1) The leaves are green and have no spots, marks, or color changes.\n2) The stem, leaf sheaths, and panicles look healthy.\n3) The panicles have well-filled grains."
+    ]
+  }
+]
