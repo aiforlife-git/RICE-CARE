@@ -1,0 +1,7 @@
+Source code for google colab
+RICECARE-->uplad image and get output
+RICECARE_DatasetVersion-->upload full dataset, create excel, run for each row
+DiseasePestDB-->to create disease and pest database
+SelectProtypesUp-->to select prototypes form a dataset
+MRR10Recall10-->calculate average MRR@10 and average Recall@10
+LLMasJudge-->calcuate LLM as judge score for rationale and advice
