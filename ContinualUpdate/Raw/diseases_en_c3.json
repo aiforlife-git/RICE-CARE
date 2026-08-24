@@ -1,0 +1,457 @@
+[
+  {
+    "disease": "Bacterial Leaf Blight",
+    "sections": [
+      {
+        "name": "Bangla Name",
+        "text": "Patapora Rog"
+      },
+      {
+        "name": "Impact on Rice Yield",
+        "text": "Bacterial leaf blight can reduce rice yield by an average of around 30% each year. This disease can appear in the field throughout the year. The level of damage varies depending on the rice variety."
+      },
+      {
+        "name": "Cause of the Disease",
+        "text": "The disease is caused by a type of bacterium."
+      },
+      {
+        "name": "Visual Symptoms",
+        "text": "Seedlings droop or wilt, turn grayish-green to yellow or brown, dry out.\nMilky or pus-like fluid oozes out from the plant.\nWater-soaked green to grayish-green streaks or lesions along the leaf margins.\nBluish (blue) water-soaked lesions or long streaks at the leaf tips or along the leaf edges.\nLight brown or yellow lesions extend downward from the leaf tip. Light brown or yellow lesions along the leaf edges or midrib.\nThe entire leaf scorch and turn grayish (gray) or straw-colored, resembling dry hay."
+      },
+      {
+        "name": "Symptoms Details",
+        "text": "Bacterial leaf blight shows three distinct types of symptoms on rice leaves and seedlings:\n\na) Kresek Symptom\n1) This symptom usually appears at the seedling or tillering stage.\n2) Infected seedlings initially droop, turn yellow, dry out, and eventually die.\n3) A milky or pus-like fluid oozes out from the plant, and water-soaked lesions appear on the leaves.\n\nb) Pale Yellow Leaf\n1) Water-soaked, pale-yellow streaks develop along the leaf margins. Sometimes, young leaves turn pale brown or yellow and gradually die.\n2) This symptom is more noticeable when there is a large difference between day and night temperatures (about 8\u009610\u00b0C).\n\nc) Leaf Burn Symptom\n1) This can appear at the tillering stage or any later growth stage.\n2) Initially, bluish water-soaked lesions or long streaks appear at the leaf tips or along the leaf edges.\n3) The lesions gradually turn light brown or yellow and extend downward from the leaf tip.\n4) Eventually, parts or the entire leaf scorch and turn grayish or straw-colored, resembling dry hay."
+      },
+      {
+        "name": "Favorable Conditions",
+        "text": "1) Cultivation of susceptible rice varieties.\n2) Excessive application of urea fertilizer.\n3) Injury to roots or plants during transplanting.\n4) High temperatures (26\u009630\u00b0C).\n5) High humidity (above 70%).\n6) Stormy and rainy weather."
+      },
+      {
+        "name": "Disease Transmission",
+        "text": "1) The bacteria survive for some time in crop residues, wet soil, and irrigation water.\n2) The pathogen enters the plant through wounds.\n3) Strong winds, rain, and irrigation water help spread the disease.\n4) The bacteria can also survive on Arali grass (Leersia species), which helps in spreading the disease."
+      },
+      {
+        "name": "Management Practices",
+        "text": "Management can be done in two ways:\n\na) Preventive Measures (Before Disease Occurrence)\n1) Resistant Varieties:\ni) Boro season: BR2, BR14, BR16, BRRI dhan19, BRRI dhan45, BRRI dhan50\nii) Aus season: BR26, BRRI dhan27\niii) Aman season: BR4, BRRI dhan32, BRRI dhan33, BRRI dhan37, BRRI dhan38, BRRI dhan40, BRRI dhan41, BRRI dhan42, BRRI dhan44, BRRI dhan49\n\n2) Apply fertilizers in balanced amounts and split urea fertilizer into three applications.\n\nB) Control Measures (In Infected Fields)\n1) Do not apply urea fertilizer after storms or heavy rains.\n2) Stop top dressing of urea immediately after disease symptoms appear.\n3) Apply 5 kg of potash fertilizer per bigha (?0.13 ha) after disease is detected.\n4) For fields with kresek symptoms, drain the field and keep it dry for 5\u009610 days, then re-irrigate.\n5) Burn infected stubble and straw after harvest to destroy the source of infection."
+      }
+    ]
+  },
+  {
+    "disease": "Bakanae",
+    "sections": [
+      {
+        "name": "Bangla Name",
+        "text": "Bakani Rog"
+      },
+      {
+        "name": "Introduction",
+        "text": "Bakanae disease of rice is a well-known fungal disease, also known as foot rot or foolish seedling disease. It occurs in almost all rice-growing countries of the world. In Bangladesh, it was first reported in 1953 and has since spread widely. The disease is particularly severe in the northeastern region, especially in the Sylhet area, where it remains a major problem. Yield losses of up to 15% are common, and in some countries, losses as high as 40% have been recorded."
+      },
+      {
+        "name": "Visual Symptoms",
+        "text": "Seedlings or plants grow abnormally tall. \nPlants become thin, spindly, and pale green in color."
+      },
+      {
+        "name": "Symptoms Details",
+        "text": "Symptoms of bakanae disease appear both in the seedbed and in the main field.\nInfected seedlings or plants grow abnormally tall, sometimes becoming twice as tall as healthy plants.\nThe infected plants become thin, spindly, and pale green in color.\nAlthough the affected plants may survive, their panicles usually remain empty or chaffy, producing no grain.\nAdventitious roots develop at the first, second, and third nodes of the stem base.\nWhen the plant eventually dies, white or pinkish fungal growth appears at the lower portion of the stem, producing a large number of spores."
+      },
+      {
+        "name": "Mode of Spread",
+        "text": "Bakanae disease spreads mainly through infected seeds. The fungus can also survive in soil and in crop residues. During seed germination in the field, fungal spores infect the seeds, causing symptoms in the seedlings. The disease is generally less severe in cool weather but increases when the soil temperature rises above 30\u00b0C. Excess nitrogen (urea) in the soil also promotes rapid disease development."
+      },
+      {
+        "name": "Management Practices",
+        "text": "1) Use healthy, disease-free seeds.\n2) Apply urea fertilizer in moderate amounts.\n3) Collect and burn infected plants.\n4) Burn weeds and crop residues after harvest.\n5) Collect seeds only from disease-free areas.\n6) Treat seeds with Bavistin (mix 3 g Bavistin thoroughly with each kg of seed, or soak the seeds overnight in a solution of 3 g Bavistin per liter of water).\n7) Keep the seedbed continuously moist with water.\n8) Avoid using the same field repeatedly as a seedbed."
+      }
+    ]
+  },
+  {
+    "disease": "Brown Spot",
+    "sections": [
+      {
+        "name": "Bangla Name",
+        "text": "Badami Dag Rog"
+      },
+      {
+        "name": "Introduction",
+        "text": "Brown spot is a fungal disease of rice. It occurs in all seasons and can attack different parts of the rice plant, though it is most commonly seen on the leaves and seeds. The severity of the disease increases when the soil lacks nutrients or water."
+      },
+      {
+        "name": "Visual Symptoms",
+        "text": "The leaves have small round or oval brown or dark-brown spots surrounded by a yellow halo.\nLarge spots or lesions of the leaves have grayish (gray) or light-brown or dark-brown center surrounded by a yellow halo."
+      },
+      {
+        "name": "Symptoms Details",
+        "text": "a) On Leaves:\n1) Small brown spots first appear on the leaves.\n2) These spots gradually enlarge, becoming somewhat similar in size to sesame seeds.\n3) The size and color of the spots vary depending on the rice variety.\n4) In susceptible varieties, the spots grow larger, with the center turning grayish or light brown. Numerous spots may form, causing the leaf to die.\n5) Sometimes, a yellow halo can be seen around the lesions.\n\nb) On Seeds:\n1) Infected seeds show light to dark brown spots on their surface.\n2) In most cases, the grains become smaller than normal.\n3) Under favorable weather conditions, the infection can become severe, turning the entire seed brown; even the polished rice may show brown spots.\n4) Sometimes the fungus can be seen growing on the seed surface, covering the grain with fungal mycelia.\n5) When infected seeds germinate, the fungus attacks the roots and coleoptile, causing distinct dark-brown lesions on them, which may lead to seedling death."
+      },
+      {
+        "name": "Favorable Conditions",
+        "text": "1) Light soil with low water-holding capacity.\n2) Deficiency of organic matter in the soil.\n3) Use of infected seeds.\n4) Lack of nitrogen, potash, zinc fertilizers, and inadequate water supply."
+      },
+      {
+        "name": "Management Practices",
+        "text": "1) Use balanced fertilizers.\n2) Apply a high amount of organic manure.\n3) Maintain proper water management.\n4) Use healthy, disease-free seeds.\n5) Treat seeds with Bavistin or Nativo (3 g per kg of seed).\n6) Apply fertilizers in proper recommended doses."
+      }
+    ]
+  },
+  {
+    "disease": "False Smut",
+    "sections": [
+      {
+        "name": "Bangla Name",
+        "text": "Lokhkhir Gu Rog"
+      },
+      {
+        "name": "Introduction",
+        "text": "False smut is a fungal disease of rice that produces abnormal grain-like or ball-shaped structures on the rice panicle, resembling small berries. The disease appears after flowering and causes yield loss."
+      },
+      {
+        "name": "Visual Symptoms",
+        "text": "The grains develop oval-shaped orange-colored spore balls or masses.\nThe grains develop oval-shaped yellow or yellowish-green spore balls or masses.\nThe grains develop oval-shaped greenish-black spore balls or masses.\nThe grains develop oval-shaped black spore balls or masses."
+      },
+      {
+        "name": "Symptoms Details",
+        "text": "1) Each grain on the panicle develops an oval, velvety, orange-colored ball approximately 1 cm in diameter.\n2) Gradually, these balls turn yellowish-green, greenish-black, or black.\n3) Several smut balls may form on a single panicle.\n4) Other parts of the plant are not affected.\n5) Grain weight and germination rate are reduced in all infected fields."
+      },
+      {
+        "name": "Favorable Conditions",
+        "text": "1) High temperature (25\u009635\u00b0C) and humidity above 80%.\n2) Frequent rainfall.\n3) Excessive application of nitrogen fertilizers.\n4) Rainfall during the flowering stage increases disease incidence."
+      },
+      {
+        "name": "Mode of Spread",
+        "text": "1) Fungal spores spread through air, rain, and insects.\n2) When infected panicles or smut balls dry, spores fall into the soil and infect new plants in the next season."
+      },
+      {
+        "name": "Management Practices",
+        "text": "a) Seed Treatment\nTreat seeds at 52\u00b0C for 10 minutes before sowing to reduce the risk of infection.\n\nb) Chemical Control\nSpray copper-based fungicides (2.5 g/L water) at the flowering stage for effective control.\n\nc) Preventive Measures\n1) Use healthy seeds from certified sources.\n2) Cultivate disease-resistant or tolerant rice varieties.\n3) Avoid keeping the field continuously flooded; maintain alternate wet and dry conditions.\n4) Apply balanced nitrogen fertilizer in appropriate doses and in multiple splits."
+      }
+    ]
+  },
+  {
+    "disease": "Leaf Blast",
+    "sections": [
+      {
+        "name": "Bangla Name",
+        "text": "Blast Rog"
+      },
+      {
+        "name": "Introduction",
+        "text": "Blast is a fungal disease of rice. In Bangladesh, it is one of the most important rice diseases. It occurs mainly in the Boro and Aman seasons and can appear at any time from the seedling stage until the rice matures. Except for the northern regions of the country, this disease damages rice crops everywhere. It is known as leaf blast, node (neck) blast, and panicle blast. Under favorable conditions, the disease spreads rapidly and can cause severe damage to the crop. In susceptible varieties, yield loss can reach up to 80%."
+      },
+      {
+        "name": "Visual Symptoms",
+        "text": "Small, water-soaked, light-gray or bluish (blue) lesions on the leaves. \nThe large lesions, turning oval or eye-shaped or spindle-shaped grayish (gray) or whitish (white) in the center with brown margins.\nThe entire leaves or the whole plant die."
+      },
+      {
+        "name": "Symptoms Details",
+        "text": "1) Blast disease attacks the leaves, nodes (joints), panicle bases or branches, and even the grains.\n2) Leaf Blast: At first, small, water-soaked, light-gray or bluish lesions appear on the leaves. Gradually, the lesions enlarge, turning grayish or whitish in the center with brown margins. The spots are somewhat elongated, often oval, rectangular, or eye-shaped. Under favorable weather, the lesions expand rapidly, merging to form large dead areas. In severe cases, entire leaves\u0097and even the whole plant\u0097may die."
+      },
+      {
+        "name": "Favorable Conditions",
+        "text": "1) Light-textured soils with low water-holding capacity.\n2) Cool weather conditions.\n3) Presence of dew on the leaves.\n4) Excessive use of nitrogen fertilizers.\n5) Use of infected seeds.\n6) Cultivation of susceptible rice varieties.\n7) Presence of alternative host plants or weeds in and around the field."
+      },
+      {
+        "name": "Management",
+        "text": "a) Before Disease Occurrence\n1) Apply organic manure to the soil.\n2) Use chemical fertilizers in balanced amounts.\n3) Use healthy, disease-free seeds.\n4) Grow resistant rice varieties:\n5) Boro season: BR 3, 6, 7, 12, 14, 16, 17, BINA dhan28, and BINA dhan45.\n6) Aus season: BR 3, 6, 7, 12, 14, 16, 20, 21, 24.\n7) Aman season: BR 4, 5, 10, BRRI dhan32, BRRI dhan33, and BINA dhan44.\n\nb) After Disease Occurrence\n1) At the initial stage of infection, apply 5 kg of potash fertilizer per bigha (?0.13 ha) as a top dressing.\n2) If weather conditions favor disease development, spray fungicides such as Trooper, Nativo, or Jil at the rate of 107 ml per bigha mixed in 100 liters of water during early infection.\n3) To reduce the risk of blast infection, avoid cultivating susceptible varieties and carefully apply urea fertilizer in proper amounts. To determine the nitrogen requirement, it is best to use an LCC (Leaf Color Chart) to match the leaf color before applying urea."
+      }
+    ]
+  },
+  {
+    "disease": "Leaf Scald",
+    "sections": [
+      {
+        "name": "Bangla Name",
+        "text": "Fhuska Dag Rog"
+      },
+      {
+        "name": "Introduction",
+        "text": "Leaf scald of rice is a fungal disease caused by Microdochium oryzae. It is one of the major rice diseases in Bangladesh. The disease occurs mainly in the Aman and Boro seasons and can appear at any time from the seedling stage to the flowering stage, though it is most common during the booting stage. In susceptible varieties, the disease can reduce yield by up to 30%."
+      },
+      {
+        "name": "Visual Symptoms",
+        "text": "Gray-green or water-soaked lesions starting from the leaf tips or edges.\nLesions on the leaf turn dark brown and light brown, forming a wave-like pattern.\nLesions on the leaf show ring-like or wavy light tan and dark reddish-brown patterns.\nThe lesions expand simply as brown patches Large parts of the leaf dry out and turn straw-colored."
+      },
+      {
+        "name": "Symptoms Details",
+        "text": "The disease produces various symptoms on rice plants, but the most common is found on the leaves:\nLesions usually start at the leaf tip and progress downward.\nInitially, small, water-soaked, gray-green spots appear, which gradually turn light tan and dark reddish-brown, forming a wave-like pattern as they merge together.\nSometimes, instead of dark brown crosswise lines, the lesions expand simply as brown patches, and the affected area eventually turns straw-colored as it dries.\nOccasionally, lesions begin along the leaf margin, spreading laterally across the leaf, while the tissue above and below the infected area remains green."
+      },
+      {
+        "name": "Favorable Conditions",
+        "text": "1) Cool and humid weather (around 20\u00b0C).\n2) Excessive use of nitrogen fertilizers.\n3) Use of infected seeds.\n4) Presence of host weeds in or around the field."
+      },
+      {
+        "name": "Management Practices",
+        "text": "1) Burn infected crop residues in the field after harvest.\n2) Collect seeds only from disease-free fields.\n3) Apply fungicides such as Thiovit, Sulfolac, Microthiol, or Cumulus at the booting stage at a rate of 300 g per bigha (?0.13 ha)."
+      }
+    ]
+  },
+  {
+    "disease": "Node Blast",
+    "sections": [
+      {
+        "name": "Bangla Name",
+        "text": "Git Blast Rog"
+      },
+      {
+        "name": "Introduction",
+        "text": "Blast is a fungal disease of rice. In Bangladesh, it is one of the most important rice diseases. It occurs mainly in the Boro and Aman seasons and can appear at any time from the seedling stage until the rice matures. Except for the northern regions of the country, this disease damages rice crops everywhere. It is known as leaf blast, node (neck) blast, and panicle blast. Under favorable conditions, the disease spreads rapidly and can cause severe damage to the crop. In susceptible varieties, yield loss can reach up to 80%."
+      },
+      {
+        "name": "Visual Symptoms",
+        "text": "The node area turns black and weak. \nThe infected part bends or breaks, remains partially attached."
+      },
+      {
+        "name": "Symptoms Details",
+        "text": "1) Blast disease attacks the leaves, nodes (joints), panicle bases or branches, and even the grains.\n2) Node (Neck) Blast: When the node is infected, the affected area turns black and weak. Strong winds may cause the infected part to bend or break, though it usually remains partially attached. The portion of the plant above the infected node eventually dies."
+      },
+      {
+        "name": "Favorable Conditions",
+        "text": "1) Light-textured soils with low water-holding capacity.\n2) Cool weather conditions.\n3) Presence of dew on the leaves.\n4) Excessive use of nitrogen fertilizers.\n5) Use of infected seeds.\n6) Cultivation of susceptible rice varieties.\n7) Presence of alternative host plants or weeds in and around the field."
+      },
+      {
+        "name": "Management",
+        "text": "a) Before Disease Occurrence\n1) Apply organic manure to the soil.\n2) Use chemical fertilizers in balanced amounts.\n3) Use healthy, disease-free seeds.\n4) Grow resistant rice varieties:\n5) Boro season: BR 3, 6, 7, 12, 14, 16, 17, BINA dhan28, and BINA dhan45.\n6) Aus season: BR 3, 6, 7, 12, 14, 16, 20, 21, 24.\n7) Aman season: BR 4, 5, 10, BRRI dhan32, BRRI dhan33, and BINA dhan44.\n\nb) After Disease Occurrence\n1) At the initial stage of infection, apply 5 kg of potash fertilizer per bigha (?0.13 ha) as a top dressing.\n2) If weather conditions favor disease development, spray fungicides such as Trooper, Nativo, or Jil at the rate of 107 ml per bigha mixed in 100 liters of water during early infection.\n3) To reduce the risk of blast infection, avoid cultivating susceptible varieties and carefully apply urea fertilizer in proper amounts. To determine the nitrogen requirement, it is best to use an LCC (Leaf Color Chart) to match the leaf color before applying urea."
+      }
+    ]
+  },
+  {
+    "disease": "Neck Blast",
+    "sections": [
+      {
+        "name": "Bangla Name",
+        "text": "Shish Blast Rog"
+      },
+      {
+        "name": "Introduction",
+        "text": "Blast is a fungal disease of rice. In Bangladesh, it is one of the most important rice diseases. It occurs mainly in the Boro and Aman seasons and can appear at any time from the seedling stage until the rice matures. Except for the northern regions of the country, this disease damages rice crops everywhere. It is known as leaf blast, node (neck) blast, and panicle blast. Under favorable conditions, the disease spreads rapidly and can cause severe damage to the crop. In susceptible varieties, yield loss can reach up to 80%."
+      },
+      {
+        "name": "Visual Symptoms",
+        "text": "The panicle base has brown or dark brown lesions. \nThe panicle base rot, making the panicle break. \nThe grains become whitish (white) or light brown and remain empty or unfilled. The grains become whitish (white) or light brown and remain empty or unfilled, and the panicle base has brown or dark brown lesion."
+      },
+      {
+        "name": "Symptoms Details",
+        "text": "1) Blast disease attacks the leaves, nodes (joints), panicle bases or branches, and even the grains.\n2) Panicle Blast: When the base of the panicle is infected, brown lesions appear. The base, any branch, or the grains themselves may become infected. Infection at the panicle base causes rotting, making the panicle break. If the disease attacks before grain filling, the grains become whitish or light brown and remain empty (chaffy)."
+      },
+      {
+        "name": "Favorable Conditions",
+        "text": "1) Light-textured soils with low water-holding capacity.\n2) Cool weather conditions.\n3) Presence of dew on the leaves.\n4) Excessive use of nitrogen fertilizers.\n5) Use of infected seeds.\n6) Cultivation of susceptible rice varieties.\n7) Presence of alternative host plants or weeds in and around the field."
+      },
+      {
+        "name": "Management",
+        "text": "a) Before Disease Occurrence\n1) Apply organic manure to the soil.\n2) Use chemical fertilizers in balanced amounts.\n3) Use healthy, disease-free seeds.\n4) Grow resistant rice varieties:\n5) Boro season: BR 3, 6, 7, 12, 14, 16, 17, BINA dhan28, and BINA dhan45.\n6) Aus season: BR 3, 6, 7, 12, 14, 16, 20, 21, 24.\n7) Aman season: BR 4, 5, 10, BRRI dhan32, BRRI dhan33, and BINA dhan44.\n\nb) After Disease Occurrence\n1) At the initial stage of infection, apply 5 kg of potash fertilizer per bigha (?0.13 ha) as a top dressing.\n2) If weather conditions favor disease development, spray fungicides such as Trooper, Nativo, or Jil at the rate of 107 ml per bigha mixed in 100 liters of water during early infection.\n3) To reduce the risk of blast infection, avoid cultivating susceptible varieties and carefully apply urea fertilizer in proper amounts. To determine the nitrogen requirement, it is best to use an LCC (Leaf Color Chart) to match the leaf color before applying urea."
+      }
+    ]
+  },
+  {
+    "disease": "Panicle Blight",
+    "sections": [
+      {
+        "name": "Bangla Name",
+        "text": "Panicle Blight"
+      },
+      {
+        "name": "Introduction",
+        "text": "Panicle blight is a bacterial disease of rice that attacks the panicle or flowers of the plant. The primary causal agent is the bacterium Burkholderia glumae. It infects rice during the flowering and grain-filling stages, causing grain damage and yield reduction."
+      },
+      {
+        "name": "Visual Symptoms",
+        "text": "Yellowish (yellow) to brown lesions apear from the lower side of the panicle or flower tip.  Grains show light to medium brown discoloration.\nGrains fail to develop fully and may dry out.\nGrains are small and shriveled.\nThe entire panicle wilt or die.\nWater-soaked spots on the panicle."
+      },
+      {
+        "name": "Symptoms Details",
+        "text": "1) Yellowish to brown lesions appear from the lower side of the panicle or flower tip.\n2) Grains fail to develop fully and may dry out. \n3) Infected grains show light to medium brown discoloration, often affecting the lower third to half of the hull. Infected grains are small and shriveled, appearing as tan, greyish, black, or pink.\n4) The entire panicle may wilt or die.\n5) During infection, soft or water-soaked spots can be observed on the panicle."
+      },
+      {
+        "name": "Favorable Conditions",
+        "text": "1) High temperature (30\u009635\u00b0C).\n2) Wet or humid conditions, especially after rainfall.\n3) Prolonged moisture during flowering.\n4) Dense planting and excessive nitrogen fertilizer use."
+      },
+      {
+        "name": "Mode of Spread",
+        "text": "1) The bacterium spreads through infected seeds, rain, air, and contaminated tools.\n2) Infected panicles or grains can act as a source of infection for the next season\u0092s crop."
+      },
+      {
+        "name": "Management Practices",
+        "text": "a) Preventive Measures\n1) Use healthy and disease-free seeds.\n2) Avoid dense planting and maintain adequate spacing.\n3) Apply balanced fertilizers, avoiding excessive nitrogen.\n\nb) Seed Treatment\nTreat seeds with resistant varieties or mild bactericides to reduce infection.\n\nc) Chemical Control\n1) Apply copper-based bactericides (e.g., copper oxychloride) during the early stage of infection.\n2) Spray regularly under supervision during the flowering period."
+      }
+    ]
+  },
+  {
+    "disease": "Seedling Blight",
+    "sections": [
+      {
+        "name": "Bangla Name",
+        "text": "Chardhosha Rog"
+      },
+      {
+        "name": "Introduction",
+        "text": "Seedling blight is a fungal disease of rice that primarily attacks seeds and young seedlings. It is a seed-borne disease in which the germinating seed or young seedling dies. The main causal fungi include Fusarium spp., Rhizoctonia solani, and Pythium spp."
+      },
+      {
+        "name": "Visual Symptoms",
+        "text": "The sprout dies.\nThe sprout or small seedling turns yellow or brown and collapses."
+      },
+      {
+        "name": "Symptoms Details",
+        "text": "1) During germination, the sprout either dies or grows very slowly.\n2) The sprout or small seedling turns yellow or brown and collapses.\n3) Rotting occurs at the portion of the plant close to the soil surface.\n4) In severe cases, seedlings are completely destroyed, reducing plant population and yield.\n5) Infected seedlings break easily at the soil line."
+      },
+      {
+        "name": "Favorable Conditions",
+        "text": "1) Excess moisture or flooding in the field.\n2) Cool or excessively humid conditions.\n3) Soil with low organic matter or fields prone to disease."
+      },
+      {
+        "name": "Mode of Spread",
+        "text": "1) The disease spreads from infected seeds to new sprouts.\n2) Fungal spores spread rapidly through soil or water.\n3) Cool and humid environments accelerate infection."
+      },
+      {
+        "name": "Management Practices",
+        "text": "a) Seed Treatment\n1) Treat seeds with fungicides such as Thiram, Carbendazim, or Mancozeb before sowing.\n2) Seed treatment ensures better germination and protects against early infection.\n\nb) Healthy Seedling Cultivation\n1) Maintain proper water management in seedbeds.\n2) Avoid dense sowing and keep adequate spacing between seedlings.\n\nc) Chemical Control\n1) If soil moisture is high, apply fungicide sprays to the seedbed.\n2) Copper-based fungicides may be applied after transplanting if necessary."
+      }
+    ]
+  },
+  {
+    "disease": "Sheath Blight",
+    "sections": [
+      {
+        "name": "Bangla Name",
+        "text": "Kholpura Rog"
+      },
+      {
+        "name": "Introduction",
+        "text": "Sheath blight is a fungal disease of rice and is one of the major rice diseases in Bangladesh. It is also found in other rice-growing countries. The disease usually begins from the maximum tillering stage of rice and is observed throughout nearly all regions of Bangladesh. It causes significant damage to Aus and Aman rice, reducing yield by up to 30%."
+      },
+      {
+        "name": "Visual Symptoms",
+        "text": "Small, round or oval, water-soaked light green or bluish (blue) spots at the lower leaf sheaths.\nThe spots or lesions have ashy, or straw-colored centers, bounded by narrow brown lines at the lower leaf sheaths and leaf. The lower sheaths and leaves are turning brown or dying."
+      },
+      {
+        "name": "Symptoms Details",
+        "text": "The disease produces characteristic spots on the sheaths and leaves, which help in its identification.\n\na) Initial Stage\nSmall, round or oval, water-soaked light green or bluish spots appear on the lower leaf sheaths.\nThe spots gradually enlarge to 2\u00963 cm in length and take irregular shapes.\nThe center of the spots becomes ashy, later turning straw-colored as they dry.\nEach spot is often bounded by narrow brown lines.\nSpots may merge to form larger lesions.\n\nb) Leaf Symptoms\n1) Similar spots develop on the leaves.\n2) In severe infections, all sheaths, leaves, or even the entire plant may turn yellow or brown and die.\n\nc) Advanced Stage\n1) The disease spreads over most of the sheath and leaf areas.\n2) Brown fungal spore balls are visible on the spots."
+      },
+      {
+        "name": "Mode of Spread",
+        "text": "The fungus survives in the soil and in crop residues as spore balls or mycelium, serving as the primary source of infection.\nThe pathogen spreads from plant to plant and field to field through rain, irrigation water, or floodwater.\nOccasionally, fungal conidia may be dispersed by air.\nHigh temperature, humidity, and excessive use of urea fertilizer increase disease severity."
+      },
+      {
+        "name": "Management Practices",
+        "text": "a) Preventive Measures (Before Disease Appearance)\n1) Burn infected crop residues at least once a year, especially after Aman harvest.\n2) Transplant seedlings with proper spacing (20 \u00d7 20 cm).\n3) Apply balanced fertilizers.\n4) Cultivate disease-tolerant varieties such as BR22, BRRI dhan32, BRRI dhan38, BR39, BRRI dhan41, BRRI dhan48, and BRRI dhan49.\n\nb) Control Measures (After Disease Appearance)\n1) Apply 5 kg of potash per bigha in two equal splits at 15-day intervals.\n2) Apply fungicides such as Econazole, Ivalte, Envil, Folicur, Contaf, Tilt (67 ml per 100 L water) or Forastin, Egben, Sindazim, Evazim, Genuine, Volcano (134 g per 100 L water) in two equal splits, covering 33% of the field."
+      }
+    ]
+  },
+  {
+    "disease": "Sheath Rot",
+    "sections": [
+      {
+        "name": "Bangla Name",
+        "text": "Kholpocha Rog"
+      },
+      {
+        "name": "Introduction",
+        "text": "Sheath rot is a fungal disease of rice. It is one of the most destructive rice diseases in Bangladesh and is also found in other rice-growing countries. The disease usually starts at the booting stage and can be observed in nearly all rice-growing regions of Bangladesh. It reduces both the yield and grain quality of rice."
+      },
+      {
+        "name": "Visual Symptoms",
+        "text": "Small, round, or irregular brown spots at the upper part of the leaf sheath surrounding the grain.\nLarge spots or lesions are dark or grayish-black in color at the upper part of the leaf sheath surrounding the grain.\nThe panicle with most grains turning black and empty or unfilled."
+      },
+      {
+        "name": "Symptoms Details",
+        "text": "The disease begins at the upper part of the leaf sheath surrounding the grain.\nInitially, small, round, or irregular brown spots appear.\nThe spots gradually enlarge, turning dark or grayish-black.\nIn severe cases, the panicle may fail to emerge, or only partially emerge, with most grains turning black and empty (chaffy).\nWhen affected grains are opened, white fungal mycelia are visible inside the husk.\nSometimes the lower part of the husk is also affected, but in that case, there is no significant yield loss."
+      },
+      {
+        "name": "Favorable Conditions",
+        "text": "1) Use of infected seeds.\n2) Presence of infected crop residues in the field.\n3) High temperature (30\u009631\u00b0C) and high humidity.\n4) Damage to the husk caused by insects or other mechanical injuries.\n5) Excessive application of nitrogen fertilizers."
+      },
+      {
+        "name": "Management Practices",
+        "text": "1) Burn infected crop residues in the field.\n2) Use healthy seeds.\n3) Apply fertilizers in balanced amounts.\n4) Treat seeds with Bavistin (3 g per kg of seed).\n5) Apply Tilt fungicide at a rate of 133 cc per bigha (?0.13 ha)."
+      }
+    ]
+  },
+  {
+    "disease": "Stem Rot",
+    "sections": [
+      {
+        "name": "Bangla Name",
+        "text": "Kandopocha Rog"
+      },
+      {
+        "name": "Introduction",
+        "text": "Stem rot is a fungal disease of rice that primarily attacks the rice stem and underground portion of the plant. The disease is caused by the fungus Sclerotium oryzae. Infected stems become weak and break, causing the plants to lodge and resulting in yield loss."
+      },
+      {
+        "name": "Visual Symptoms",
+        "text": "The portion of the stem near the soil turns blackish brown or blackish (black).\nThe plant weakens, collapses, or breaks."
+      },
+      {
+        "name": "Symptoms Details",
+        "text": "1) The portion of the stem near the soil gradually turns brown or blackish.\n2) White or light fungal mycelium is visible inside the stem.\n3) The plant weakens, collapses, or breaks.\n4) In susceptible fields, entire areas may lodge and collapse."
+      },
+      {
+        "name": "Favorable Conditions",
+        "text": "1) Waterlogged fields or areas with excess standing water.\n2) Cool and humid conditions.\n3) Excessive use of nitrogen fertilizers.\n4) Presence of old rice stubble or crop residues in the field encourages disease development."
+      },
+      {
+        "name": "Mode of Spread",
+        "text": "1) The fungus survives in the soil as sclerotia.\n2) New infections occur from infected stems or crop residues from previous harvests.\n3) Waterlogged conditions accelerate disease spread."
+      },
+      {
+        "name": "Management Practices",
+        "text": "a) Cultural Practices\n1) Ensure proper land preparation and drainage.\n2) Remove crop residues from the field.\n3) Avoid dense planting.\n\nb) Preventive Measures\n1) Use resistant or tolerant rice varieties.\n2) Apply balanced fertilizers, avoiding excessive nitrogen.\n\nc) Chemical Control\n1) Apply fungicides such as Carbendazim or Propiconazole, especially at the early stages of infection.\n2) Spraying near the stem base provides better control."
+      }
+    ]
+  },
+  {
+    "disease": "Ufra",
+    "sections": [
+      {
+        "name": "Bangla Name",
+        "text": "Ufra Rog"
+      },
+      {
+        "name": "Introduction",
+        "text": "Every year, about 200,000 hectares of rice are affected by whorl maggot disease. Yield losses can range from 40\u0096100%. Locally, the disease is also known as \u0093Dakpora,\u0094 \u0093Jwale Jawa,\u0094 \u0093Burning,\u0094 or \u0093Salty spots.\u0094 Major affected districts in Bangladesh include Greater Barishal, Patuakhali, Faridpur, Comilla, Sylhet, Khulna, and Dhaka. The disease occurs in transplanted Aman, Boro, and even Aus rice."
+      },
+      {
+        "name": "Visual Symptoms",
+        "text": "White speckled spots at the junction of leaf blade and sheath.\nThe entire leaf blade to turn white, then brown.\nThe leaf finally dry out completely."
+      },
+      {
+        "name": "Symptoms Details",
+        "text": "1) The disease is caused by a type of maggot that feeds on the sap of young leaf tips.\n2) White speckled spots appear at the junction of leaf blade and sheath.\n3) Severe attacks cause the entire leaf blade to turn white, then brown, and finally dry out completely.\n4) Panicles may fail to emerge, or emerge partially or twisted, resulting in poorly developed and malnourished grains.\n5) Infected plants may be slightly bent compared to healthy plants.\n6) Severe infestations can lead to total yield loss."
+      },
+      {
+        "name": "Favorable Conditions and Spread",
+        "text": "1) Dry weather and lower temperatures reduce the disease incidence in Boro rice.\n2) Optimal conditions for the maggot include 28\u009630\u00b0C temperature, humidity above 70%, frequent rainfall, and waterlogged fields.\n3) Maggots survive on stubble, straw, panicles, or fallen grains for 6\u00968 months without food.\n4) They emerge from the primary sources and attack rice plants via rainwater, irrigation, or floods."
+      },
+      {
+        "name": "Management Practices",
+        "text": "1) No fully resistant variety exists, but local varieties like Rayda and Bajail show some tolerance.\n2) After harvest, burn stubble and straw from infected fields.\n3) Destroy grass weeds, infected tillers, or volunteer rice plants.\n4) Do not feed infected straw to livestock, as it carries maggots; burn it instead.\n5) If possible, plow and dry the field 15\u009620 days after the first rain.\n6) Grow alternate crops in the field to reduce infestation.\n7) Select healthy seedlings from seedbeds for transplanting.\n8) Apply granular insecticide Furadan 5G at 3 kg per bigha during the early stage; Curaterr 5G is also effective.\n9) In high-risk areas, sprinkle 150 g granular insecticide per khata in seedbeds to protect seedlings.\n10) 12\u009620 hours before transplanting, soak seedlings\u0092 roots in a 1.5% insecticide solution (1.5 g insecticide per 1 liter water) and then transplant into the field."
+      }
+    ]
+  },
+  {
+    "disease": "Healthy",
+    "sections": [
+      {
+        "name": "Bangla Name",
+        "text": "Shustho Dhan Gach"
+      },
+      {
+        "name": "Introduction",
+        "text": "The rice plant is healthy and shows normal growth without any visible signs of disease, pest infestation, or nutrient deficiency. Healthy plants are essential for achieving optimum yield and grain quality."
+      },
+      {
+        "name": "Visual Symptoms",
+        "text": "Leaves are uniformly green and healthy.\nNo spots, lesions, discoloration, or drying symptoms are visible.\nLeaf blades and sheaths appear normal.\nPlant growth is vigorous and well developed."
+      },
+      {
+        "name": "Cause",
+        "text": "No disease or pest damage is present. The plant is growing under favorable conditions."
+      },
+      {
+        "name": "Management",
+        "text": "Continue recommended crop management practices.\nMaintain balanced fertilization.\nMonitor fields regularly for early detection of diseases, pests, or nutrient deficiencies.\nEnsure proper irrigation and field sanitation."
+      }
+    ]
+  }
+]

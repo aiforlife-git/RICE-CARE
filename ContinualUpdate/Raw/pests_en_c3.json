@@ -1,0 +1,302 @@
+[
+  {
+    "pest": "Brown Planthopper",
+    "sections": [
+      {
+        "name": "Bangla Name",
+        "text": "Badami Ghashforing"
+      },
+      {
+        "name": "Insect Description",
+        "text": "Adult brown planthoppers are about 4 mm long and brown in color. Adults have long wings and short winged forms also exist. Female BPH lay eggs inside leaf sheaths, leaves, and midribs. Eggs hatch into nymphs within 4\u00969 days. Nymphs are initially white and later turn brown. The complete life cycle from nymph to adult takes 14\u009626 days, depending on weather. Adults can live around three weeks."
+      },
+      {
+        "name": "Visual Symptoms",
+        "text": "Plants are becoming yellow or brown, dry and die. Nymphs and adults congregate at the base of the plant above the water level."
+      },
+      {
+        "name": "Damage",
+        "text": "1) Both nymphs and adults feed on the sap at the base of rice plants.\n2) Attacks typically start from early tillering stage.\n3) The pest occurs in both Boro and Aman seasons.\n4) Heavy infestations cause hopperburn or yellowing, browning, where plants dry and die.\n5) Nymphs and adults congregate at the base of the plant above the water level.\n6) Damage is worse in humid, shaded areas and waterlogged fields."
+      },
+      {
+        "name": "Management Practices",
+        "text": "1) Use light traps to monitor and reduce populations.\n2) Increase spacing during transplanting to reduce infestation.\n3) Remove standing water from fields.\n4) Avoid excessive top-dressing of urea in fertile fields.\n5) Plant early-maturing or resistant rice varieties (e.g., BRRI Dhan 35).\n6) Apply approved insecticides if 2\u00964 egg-laden adult females or 8\u009610 nymphs are found per plant in most of the field. Spray at the base of the plants.\n7) Do not apply insecticides if spiders are present in the field, as they naturally prey on brown planthoppers."
+      }
+    ]
+  },
+  {
+    "pest": "Case Worm",
+    "sections": [
+      {
+        "name": "Bangla Name",
+        "text": "Chungi puka"
+      },
+      {
+        "name": "Insect Description",
+        "text": "Case worm is mainly a pest of the Aman season, but under favorable conditions, it can also appear in the Aus season. Adult moths are white with brown spots on the wings. Female moths lay eggs on the underside of leaves. Eggs hatch in 3\u00966 days, producing green larvae. The larval stage lasts 2\u00963 weeks, and it takes about 1 week for the pupa to develop into an adult moth. Adult moths live 8\u009612 days, and the complete life cycle of the case worm takes 4\u00965 weeks, depending on conditions."
+      },
+      {
+        "name": "Visual Symptoms",
+        "text": "The leaves have whitish (white) or silvery (silver) or brownish (brown), scraped lines or streaks.\nLeaves may roll or curl. Floating or hanging cut leaf pieces on the water surface."
+      },
+      {
+        "name": "Damage",
+        "text": "1) Larvae feed at night, damaging plants. They eat the green parts of leaves, leaving only the upper epidermis. The leaves become whitish and papery and add green one.\n2) Larvae cut 2\u00963 cm long strips (cases) from the leaves and hide inside them. Tubular cases around the tillers by cutting the apical portion of leaves.\n3) These cases hang on the plant and can float in water, allowing larvae to move from one plant to another.\n4) Moist environments and standing water favor population growth. Seedlings and middle-aged plants are more vulnerable."
+      },
+      {
+        "name": "Management Practices",
+        "text": "1) Drain water from affected fields.\n2) Use light traps to kill adult moths.\n3) Destroy infested leaves.\n4) Apply insecticides if necessary\u0097consider spraying when about 25% of the plants show damage from larvae."
+      }
+    ]
+  },
+  {
+    "pest": "Grasshopper",
+    "sections": [
+      {
+        "name": "Bangla Name",
+        "text": "Ghashforing"
+      },
+      {
+        "name": "Insect Description",
+        "text": "Adult grasshoppers are 3\u00964 cm long. They have long hind legs, which allow them to hop and jump. Body color is light green or yellowish-brown. Female grasshoppers lay eggs in the soil. Eggs hatch in 15\u009618 days depending on conditions. Nymphs live 2.5 to 3 months, and adults live 1.5 to 2 months. The entire life cycle lasts about 3 months."
+      },
+      {
+        "name": "Visual Symptoms",
+        "text": "Leaf edges cut or chewed from the sides or edges.\nOnly the midrib of the leaf remains."
+      },
+      {
+        "name": "Damage",
+        "text": "1) Both nymphs and adults feed on rice plants.\n2) They chew (cut) the leaves from the edges, and heavy infestation can destroy the entire leaf except the midrib.\na) Irregular feeding (cutting) on seedlings and leaf blade.\nb) Cutting of stem at panicle stage.\nc) Completely defoliate the plants leaving only the mid ribs.\n3) This damage weakens the plants and reduces yield.\n4) Although more common in Aus rice, grasshoppers can also attack Boro and transplanted Aman rice."
+      },
+      {
+        "name": "Management Practices",
+        "text": "1) Catch and kill the insects using a hand net.\n2) Provide perches for insectivorous birds by burning small branches to attract them.\n3) Use insecticides only if necessary\u0097generally when 25% of leaves are damaged."
+      }
+    ]
+  },
+  {
+    "pest": "Green Leafhopper",
+    "sections": [
+      {
+        "name": "Bangla Name",
+        "text": "Sobuj pataforing"
+      },
+      {
+        "name": "Insect Description",
+        "text": "Adult green hoppers are 3\u00965 mm long. Bright green in color with black spots on the body. Nymphs also have various types of markings. Female adults lay eggs inside leaf sheaths. Eggs hatch in 3\u00965 days, and nymphs take 15\u009621 days to develop into adults. Adults can live up to 25 days."
+      },
+      {
+        "name": "Visual Symptoms",
+        "text": "Leaves become yellow or orange and stunted.\nThe leaf tips may dry up."
+      },
+      {
+        "name": "Damage",
+        "text": "1) Both nymphs and adults suck sap from rice leaves.\n2) Rice is most affected at the tillering stage.\n3) Occurs in all seasons (Boro, Aus, and Aman).\n4) Infested plants become yellow (yellowing of leaves from tip to downwards) and stunted.\n5) Green hoppers transmit viral diseases such as Tungro and Yellow Dwarf, with Tungro being more prevalent."
+      },
+      {
+        "name": "Management Practices",
+        "text": "1) Use light traps to attract and kill the insects.\n2) Catch and kill using a hand net.\n3) Destroy pests naturally by providing perches for insectivorous birds.\n4) Grow varieties resistant or tolerant to Green Hopper and Tungro.\n5) Use approved insecticides in seedbeds or fields only if necessary\u0097for example, if one Green Hopper is found per sweep and nearby plants are infected with Tungro."
+      }
+    ]
+  },
+  {
+    "pest": "Long Horned Cricket",
+    "sections": [
+      {
+        "name": "Bangla Name",
+        "text": "Lombashur Urchunga"
+      },
+      {
+        "name": "Insect Description",
+        "text": "The Long Horned Cricket has a golden-colored body and measures about 2.5 cm in length. It moves by jumping, similar to other grasshoppers. Its life cycle consists of three stages: egg, nymph, and adult."
+      },
+      {
+        "name": "Visual Symptoms",
+        "text": "Holes of different shapes or long cuts on the leaves."
+      },
+      {
+        "name": "Damage",
+        "text": "1) Both nymphs and adults feed on rice plants.\n2) They chew the leaves, leaving the edges and veins intact, which makes the leaves appear ragged and perforated.\n3) Heavy infestations weaken the plants, causing yield loss.\n4) Attacks are more common during the Boro and Aman seasons."
+      },
+      {
+        "name": "Management Practices",
+        "text": "1) Hand-netting to catch and kill the insects.\n2) Place branches or sticks in the field to attract insect-eating birds.\n3) Use light traps to reduce their population.\n4) Apply insecticides only if necessary, when about 25% of the leaf area is damaged."
+      }
+    ]
+  },
+  {
+    "pest": "Mealybug",
+    "sections": [
+      {
+        "name": "Bangla Name",
+        "text": "Chatra Puka"
+      },
+      {
+        "name": "Insect Description",
+        "text": "The mealybug attacks during dry weather or in fields without standing water. Adult female mealybugs are 2\u00963 mm long, soft-bodied, and pink in color. Their bodies are covered with a white waxy substance. Females do not have wings, while males have two wings. Females lay eggs in waxy clusters between the stem and sheath of the plant. Eggs hatch in 3\u00966 hours, and nymphs take 12\u009618 days to become adults. Under favorable conditions, one life cycle can be completed in 12\u009618 days."
+      },
+      {
+        "name": "Visual Symptoms",
+        "text": "Plants become stunted and leaves turn yellow.\nPresence of white waxy fluff or material along stems and sheaths."
+      },
+      {
+        "name": "Damage",
+        "text": "1) Both nymphs and adults feed on the rice plant, causing damage.\n2) Attacks can occur in all seasons, but are most severe in the Aus season.\n3) Infested plants often have many nymphs and adults together in the waxy material along stems and sheaths, sucking sap.\n4) Infested plants become stunted and leaves turn yellow.\n5) Severe infestation can prevent panicle emergence.\n6) Infestations are often scattered, making the field look partially damaged."
+      },
+      {
+        "name": "Management Practices",
+        "text": "1) Uproot and destroy affected plants, either by burying in soil or burning.\n2) Instead of treating the entire field, spray insecticides only on affected areas, which reduces control costs significantly."
+      }
+    ]
+  },
+  {
+    "pest": "Rice Bug or Rice Ear Bug",
+    "sections": [
+      {
+        "name": "Bangla Name",
+        "text": "Gandhi Puka"
+      },
+      {
+        "name": "Insect Description",
+        "text": "Adult rice bugs are grayish and somewhat slender in shape. They have long legs and long snouts. Rice bugs lay eggs in rows on rice leaves and panicles. Both larvae and adults are green-colored at early stages, and their bodies emit a foul odor."
+      },
+      {
+        "name": "Visual Symptoms",
+        "text": "The grains become chalky or chaffy. \nThe grains become brownish (brown) or yellowish (yellow) pale or discolored.\nBlack spots on the grains.\nShriveled or partly empty grains."
+      },
+      {
+        "name": "Damage",
+        "text": "1) Both larvae and adults suck sap from rice grains, causing the grains to become chalky or chaffy or discolored. Black spots on the grains at the site of feeding puncture.\n2) This pest can attack in all rice-growing seasons."
+      },
+      {
+        "name": "Management Practices",
+        "text": "1) Use light traps to control the pest.\n2) If necessary, apply approved insecticides\u0097particularly when 2\u00963 rice bugs are seen per panicle in most of the field.\n3) Insecticide application should be done in the evening for effective control."
+      }
+    ]
+  },
+  {
+    "pest": "Rice Gall Midge",
+    "sections": [
+      {
+        "name": "Bangla Name",
+        "text": "Gall masi"
+      },
+      {
+        "name": "Insect Description",
+        "text": "Rice Gall Midge mainly damages transplanted Aman rice, but can also attack Aus rice under favorable conditions. Adult rice gall midges resemble mosquitoes, with the female having a bright red abdomen. Females lay eggs singly on the underside of leaves or on the leaf sheath. Eggs hatch in 3\u00964 days. Newly hatched larvae feed at the base of the central leaf, causing the leaf to curl and form a gall. Inside this gall, larvae pupate, and adult gall midges emerge from the pupae. The life cycle of the rice gall midge lasts 2.5 to 3 weeks."
+      },
+      {
+        "name": "Visual Symptoms",
+        "text": "Leaves become curly and form narrow tubes like onion leaves. Formation of a hollow cavity or tubular gall at the base of the tiller."
+      },
+      {
+        "name": "Damage",
+        "text": "1) Larvae feed on the central leaf of rice plants, causing it to curl and form a tube like gall.\n2) Damage is mostly observed in the Aman season.\n3) Seedlings in the tillering stage are attacked; the midge does not form galls at the early seedling stage.\n4) The symptom of this damage is called \u0093Onion leaf\u0094 in Bengali or \u0093Silver Shoot\u0094 in English."
+      },
+      {
+        "name": "Management Practices",
+        "text": "1) Use light traps to kill adult midges.\n2) Apply insecticides only if necessary\u0097generally when 5% of plants show onion leaf/silver shoot symptoms."
+      }
+    ]
+  },
+  {
+    "pest": "Rice Hispa",
+    "sections": [
+      {
+        "name": "Bangla Name",
+        "text": "Pamri Puka"
+      },
+      {
+        "name": "Insect Description",
+        "text": "Adult Rice Hispa have a shiny black body with numerous small cuts or grooves on the back. Female adults lay eggs on the upper side of the leaf. Eggs hatch in 1\u00963 days. Larvae tunnel between the two layers of the leaf and pupate in 9\u009613 days. Pupae develop into adult insects within 3\u00964 days."
+      },
+      {
+        "name": "Visual Symptoms",
+        "text": "Narrow white or yellowish (yellow) parallel streaks or scraped marks along the leaf blade.\nLeaves are silvery or streaked.\nBlister like marks near leaf tips.\nLeaves dry up from tip to base."
+      },
+      {
+        "name": "Damage",
+        "text": "1) Both adults and larvae attack rice plants.\n2) Adults feed on the green parts of leaves, leaving long parallel white streaks.\n3) Larvae tunnel inside the leaf layers while feeding.\n4) Adults are capable of flying long distances, spreading the infestation to new areas.\n5) After Aman harvest, they take shelter in straw or nearby water bodies and initiate attacks on Boro crops."
+      },
+      {
+        "name": "Management Practices",
+        "text": "1) Grow resistant varieties, such as BR14 (Boro), BR25, and BRI Dhan27 (Aman).\n2) Catch and kill adults using a hand net.\n3) Cut and destroy the top 3 cm of affected leaves from the base (cutting after panicle initiation may reduce yield).\n4) Use insecticides if necessary, for example, if 35% of leaves are damaged or there are 4 adult insects per rice clump."
+      }
+    ]
+  },
+  {
+    "pest": "Rice Leaf Roller or Folder",
+    "sections": [
+      {
+        "name": "Bangla Name",
+        "text": "Patamorano Puka"
+      },
+      {
+        "name": "Insect Description",
+        "text": "The adult rice leaf roller or folder is a brownish moth with 2\u00963 crosswise bands on its wings. Its life cycle has four stages: egg, larva, pupa, and adult moth. Female moths lay single eggs near the midrib of leaves, which hatch in 5\u00967 days. The larvae stay inside the folded leaves, completing their development. Larvae become pupae within 3\u00964 weeks, pupae last for about one week, and adults live for 7\u009610 days."
+      },
+      {
+        "name": "Visual Symptoms",
+        "text": "The leaves folded or rolled lengthwise or longitudinally, look whitish (white) or dry.\nThe leaves have white, scraped lines or streaks.\nThe leaves scorched or burnt."
+      },
+      {
+        "name": "Damage",
+        "text": "1) The larvae fold or roll the leaves lengthwise or longitudinally and feed on the green tissues inside. Larva scrapes the green tissues of the leaves, which later becomes white and dry.\n2) Severe infestation causes leaves to appear scorched or burnt."
+      },
+      {
+        "name": "Management Practices",
+        "text": "1) Use light traps to capture and kill adult moths.\n2) Place twigs or branches in the field to attract insect-eating birds.\n3) Apply approved insecticides if necessary, but only when 25% of the leaves show damage."
+      }
+    ]
+  },
+  {
+    "pest": "Thrips",
+    "sections": [
+      {
+        "name": "Bangla Name",
+        "text": "Thrips"
+      },
+      {
+        "name": "Insect Description",
+        "text": "Adult thrips are very small (1\u00962 mm long) and dark brown in color. They may be winged or wingless. Female thrips insert their tiny eggs (about 0.25 mm long) into rice leaves. The eggs are initially transparent, gradually turning yellowish before hatching. Newly hatched nymphs remain motionless for a short time, then move to young leaves and leaf sheaths to feed. Both nymphs and adults spend their entire life cycle on the plant."
+      },
+      {
+        "name": "Visual Symptoms",
+        "text": "Yellow or silvery (silver) or whitish (white) streaks on the leaves.\nLeaves rolled lengthwise, and drying of from tip to base.\nLeaf edges curl.\nLeaves may dry up and die."
+      },
+      {
+        "name": "Damage",
+        "text": "1) Both nymphs and adults suck sap from rice leaves.\n2) The pest mainly attacks rice plants during the tillering stage.\n3) Thrips occur in all rice-growing seasons, but infestation is more severe in the Aus season.\n4) Yellow (or) silvery streaks on the leaves of young seedlings.\n5) Infested leaves become rolled lengthwise, taking on a needle-like shape, and drying of from tip to base.\n6) Severely affected leaves may dry up and die."
+      },
+      {
+        "name": "Management Practices",
+        "text": "1) Apply nitrogen fertilizer (urea) in infested fields to promote plant recovery.\n2) Use approved insecticides only when necessary to control heavy infestations."
+      }
+    ]
+  },
+  {
+    "pest": "White-Backed Planthopper",
+    "sections": [
+      {
+        "name": "Bangla Name",
+        "text": "Sadapith Ghashforing"
+      },
+      {
+        "name": "Insect Description",
+        "text": "Adult white-backed planthoppers are about 3\u00964 mm long. Their body is brown with a distinct white mark on the back. Nymphs are a mix of brown, black, and white colors. They are often found in the same fields or on the same plants as the brown planthopper. Adult females lay eggs inside the leaf sheath, leaf blade, or along the midrib. Eggs hatch in 5\u00968 days, and nymphs take 11\u009614 days (depending on weather) to develop into adults. The full life cycle completes in about three weeks."
+      },
+      {
+        "name": "Visual Symptoms",
+        "text": "Leaves become yellowish (yellow) or pale. \nStunted growth of the plant.\nTips of leaves turn brown."
+      },
+      {
+        "name": "Damage",
+        "text": "1) Both nymphs and adults suck sap from the base of rice plants and cause stunted growth.\n2) Heavy infestation causes hopper burn, where plants dry out and die.\n3) Rice plants affected by WBPH appear with hopper burn uniformly in large area throughout the field rather than localized hopper burn patches as in BPH.\n4) Attacks are common during the Boro and Aman seasons.\n5) Infestation is more severe in humid, shaded areas or where water stands in the field."
+      },
+      {
+        "name": "Management Practices",
+        "text": "1) Use light traps to reduce adult populations.\n2) Increase plant spacing during transplanting.\n3) Drain excess water from the field to reduce favorable conditions.\n4) Avoid top-dressing urea fertilizer in fertile fields.\n5) Apply approved insecticides only when necessary.\n6) Encourage the presence of natural predators such as spiders, which help control the pest population."
+      }
+    ]
+  }
+]
