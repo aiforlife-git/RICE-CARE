@@ -1,7 +1,10 @@
-#Source code for google colab
-RICECARE-->uplad image and get output
-RICECARE_DatasetVersion-->upload full dataset, create excel, run for each row
-DiseasePestDB-->to create disease and pest database
-SelectProtypesUp-->to select prototypes form a dataset
-MRR10Recall10-->calculate average MRR@10 and average Recall@10
-LLMasJudge-->calcuate LLM as judge score for rationale and advice
+## Source Code
+
+### Google Colab
+
+* **`RICECARE`** — Upload an image and run the RICE-CARE framework to obtain the diagnostic output.
+* **`RICECARE_DatasetVersion`** — Upload the full dataset, generate the Excel file, and run RICE-CARE for each image.
+* **`DiseasePestDB`** — Create the disease and pest knowledge database.
+* **`SelectProtypesUp`** — Select representative prototypes from the dataset.
+* **`MRR10Recall10`** — Calculate average MRR@10 and Recall@10.
+* **`LLMasJudge`** — Calculate LLM-as-a-Judge scores for the generated rationale and management advice.
