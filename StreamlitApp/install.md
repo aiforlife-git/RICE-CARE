@@ -4,7 +4,7 @@
 
 ```bash
 Then.........
-cd RICE-CARE
+cd RICE_CARE
 ```
 
 ### 2. Create a virtual environment
