@@ -56,8 +56,10 @@ cp .env.example .env
 Then open `.env` and add your API credentials:
 
 ```text
-OPENAI_API_KEY=your_openai_api_key
-HF_API_Read=your_huggingface_token
+OPENAI_API_KEY=your-openai-api-key
+HF_API_Read=your-huggingface-token
+QDRANT_API_KEY=your-qdrand-api-key #if you are using cloud
+QDRANT_URL=qdrant-url #if you are using cloud
 ```
 
 **Do not share or commit your `.env` file or API keys.**
