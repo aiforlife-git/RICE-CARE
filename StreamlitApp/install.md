@@ -1,9 +1,9 @@
 ## Installation
 
-### 1. Clone the repository
+### 1. Clone or download the repository
 
 ```bash
-Then.........
+After that.........
 cd RICE_CARE
 ```
 
